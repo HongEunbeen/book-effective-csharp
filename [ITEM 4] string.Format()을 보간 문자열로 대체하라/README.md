@@ -80,7 +80,7 @@ Console.WriteLine($"The customer's name is {c?.Name ?? "Name is missing"}");
 
 **LINQ 쿼리 구문과 함께 사용**
 
-[**ASP.NET](http://ASP.NET) MVC의 Razor View 엔진에서 사용**
+**ASP.NET MVC의 Razor View 엔진에서 사용**
 
 웹 응용 프로그램 내에서 HTML 결과물을 쉽게 생성할 수 있습니다. 
 
