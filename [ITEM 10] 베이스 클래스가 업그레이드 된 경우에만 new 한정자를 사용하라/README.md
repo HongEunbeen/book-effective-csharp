@@ -56,7 +56,7 @@ public class MyWidget : BaseWidget
 
 부모 클래스에 동일 이름의 메서드가 추가되는 경우 해결 방법은 두 가지가 있습니다.
 
-[1. **자식 클래스에서 정의한 메서드 이름 변경]**
+### [1. 자식 클래스에서 정의한 메서드 이름 변경]
 
 ```csharp
 public class MyWidget : BaseWidget
@@ -68,7 +68,7 @@ public class MyWidget : BaseWidget
 }
 ```
 
-**[2. 자식 클래스에서 정의한 메서드의 이름을 변경하지 않고 new 한정자를 사용하기]**
+### [2. 자식 클래스에서 정의한 메서드의 이름을 변경하지 않고 new 한정자를 사용하기]
 
 ```csharp
 public class MyWidget : BaseWidget
